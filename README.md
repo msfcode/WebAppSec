@@ -2,7 +2,8 @@
 im trying to learn something about web application security 
 
 Paths <br>
-- Web requests <br>
+- Install Owasp Juice Shop for practice
+  
 - Cross-Site scripting (xss)<br>
 Cross-Site Scripting or XSS is a vulnerability that allow a third party to execute javascript (js) command on the victim's browser
 <br>
@@ -15,6 +16,7 @@ Here a simple image :
 - File upload attaks
 - Broken Authentification
 - File inclusion
-- IDOR
+- XML
 - XXE
+- IDOR
 - API attacks
