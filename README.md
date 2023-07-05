@@ -11,6 +11,15 @@ Install it using this commands if it's not available:<br>
 apt update <br>
 apt upgrade <br>
 apt install nodejs <br>
+apt install npm <br>
+<br>Step2
+We will install Juice shop:
+<br>
+git clone https://github.com/juice-shop/juice-shop <br>
+cd juice-shop <br>
+npm install <br>
+<image src="https://github.com/msfcode/WebAppSec/assets/74313566/5c08caaa-720d-4e03-aa91-6b974bb96d40">
+
 
 
 <br><br>
