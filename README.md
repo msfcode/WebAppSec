@@ -18,7 +18,6 @@ We will install Juice shop:
 git clone https://github.com/juice-shop/juice-shop <br>
 cd juice-shop <br>
 npm install <br>
-<image src="https://github.com/msfcode/WebAppSec/assets/74313566/5c08caaa-720d-4e03-aa91-6b974bb96d40">
 
 
 
