@@ -53,7 +53,8 @@
       <p>
       <img src="https://github.com/msfcode/WebAppSec/assets/74313566/48d2d953-cbed-4e2d-ad93-1ea36de2f681">
     <p>But we can try to execute some JavaScript code using the &lt;iframe&gt; tag:</p>
-    <iframe src="javascript:alert('DOMED')"></iframe>
+    <code><iframe src="javascript:alert('DOMED')"></iframe></code>
+    <br>
     <p>
       <img src="https://github.com/msfcode/WebAppSec/assets/74313566/82434f00-8cb3-472c-b0e2-f16662d2dcfe">
     </p>
