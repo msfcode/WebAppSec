@@ -21,7 +21,6 @@
 
   <section>
     <h2 style="font-size: 20px;">Web Application Security Topics</h2>
-    <h1 style="font-size: 24px;">Cross-Site Scripting (XSS)</h1>
     <p>During my learning journey, I will be covering various topics related to web application security. Some of the key areas include:</p>
     <ol>
       <li>Cross-Site Scripting (XSS)</li>
