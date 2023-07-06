@@ -1,43 +1,59 @@
-# WebAppSec
-im trying to learn something about web application security 
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.5;
+    }
 
-Paths <br>
-- Install Owasp Juice Shop for practice <br>
-And because we need an environnement when we will practice what we know we will try to install and setup Owasp Juice Shop :) <br>
-Owasp juice Shop is a vulnerable full js web app designed by Owasp . It will help us to practice and learn .<br>
--Check you node js version using this commande : <br>
-nodejs -v <br>
-Install it using this commands if it's not available:<br>
-apt update <br>
-apt upgrade <br>
-apt install nodejs <br>
-apt install npm <br>
-<br>Step2
-We will install Juice shop:
-<br>
-git clone https://github.com/juice-shop/juice-shop <br>
-cd juice-shop <br>
-npm install <br>
-npm start <br>
-here we go : <br>
+    h1, h2, h3 {
+      color: #333;
+    }
 
+    img {
+      max-width: 100%;
+      height: auto;
+      margin-top: 20px;
+    }
 
+    .topic {
+      margin-bottom: 30px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Web Application Security</h1>
 
+  <div class="topic">
+    <h2>Installation and Setup</h2>
+    <p>To practice and apply my knowledge, I will be installing Owasp Juice Shop, a vulnerable full JavaScript web application designed by Owasp.</p>
+    <ol>
+      <li>Clone the repository: <code>git clone https://github.com/juice-shop/juice-shop</code></li>
+      <li>Navigate to the project directory: <code>cd juice-shop</code></li>
+      <li>Install the required dependencies: <code>npm install</code></li>
+      <li>Start the application: <code>npm start</code></li>
+    </ol>
+    <img src="https://th.bing.com/th/id/R.12ee318566a8850abfea46d0129f6fe3?rik=TOem1fxrHz3OWg&pid=ImgRaw&r=0" alt="Owasp Juice Shop Screenshot">
+  </div>
 
-<br><br>
-- Cross-Site scripting (xss)<br>
-Cross-Site Scripting or XSS is a vulnerability that allow a third party to execute javascript (js) command on the victim's browser
-<br>
-Here a simple image :
-  <image src="https://github.com/msfcode/WebAppSec/assets/74313566/f94ee703-337b-4ee1-887f-6b2a0c3404b0)">
-
-- Sql injection fondamentals
-- Sqlmap
-- Command injections
-- File upload attaks
-- Broken Authentification
-- File inclusion
-- XML
-- XXE
-- IDOR
-- API attacks
+  <div class="topic">
+    <h2>Web Application Security Topics</h2>
+    <p>During my learning journey, I will be covering various topics related to web application security. Some of the key areas include:</p>
+    <ol>
+      <li>Cross-Site Scripting (XSS)</li>
+      <li>SQL Injection Fundamentals</li>
+      <li>SQLMap</li>
+      <li>Command Injections</li>
+      <li>File Upload Attacks</li>
+      <li>Broken Authentication</li>
+      <li>File Inclusion</li>
+      <li>XML Attacks</li>
+      <li>XXE (XML External Entity) Attacks</li>
+      <li>Insecure Direct Object References (IDOR)</li>
+      <li>API Attacks</li>
+    </ol>
+    <p>I am excited to delve into these topics and gain practical experience in web application security.</p>
+  </div>
+</body>
+</html>
