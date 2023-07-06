@@ -45,8 +45,11 @@
     <img src="https://github.com/msfcode/WebAppSec/assets/74313566/b501b49d-00bc-4723-92a6-444fd0bd48e1)">
     <p>Try to inspect the elements of the website:</p>
     <p>As we can see here, whatever we enter in the search input appears in the code:</p>
+    <img src="https://github.com/msfcode/WebAppSec/assets/74313566/8537ceda-fe9b-4252-a739-46865681d106">
     <p>Another example, what if we try to inject an &lt;img&gt; tag and replace the link with an image link like "https://i.imgflip.com/u9pv5.jpg":</p>
-    <img src="https://i.imgflip.com/u9pv5.jpg" alt="Injected Image">
+    <img src="https://github.com/msfcode/WebAppSec/assets/74313566/d51922c2-5176-4b85-a673-ab2c70f92094"><br>
+    <p>We get that <br>
+      <img src="https://github.com/msfcode/WebAppSec/assets/74313566/6a4f2d14-648f-4ed1-bc0c-c2b46d8f8e91">
     <p>But we can try to execute some JavaScript code using the &lt;iframe&gt; tag:</p>
     <iframe src="javascript:alert('DOMED')"></iframe>
     <p>You can, of course, search for another payload to test DOM-Based vulnerability on the
