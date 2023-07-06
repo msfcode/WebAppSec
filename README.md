@@ -56,6 +56,7 @@
     <code><iframe src="javascript:alert('DOMED')"></iframe></code>
     <br>
     <p>
+      <br>
       <img src="https://github.com/msfcode/WebAppSec/assets/74313566/82434f00-8cb3-472c-b0e2-f16662d2dcfe">
     </p>
     <p>You can, of course, search for another payload to test DOM-Based vulnerability on the
