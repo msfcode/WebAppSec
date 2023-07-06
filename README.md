@@ -1,26 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.5;
-    }
-
-    h1, h2, h3 {
-      color: #333;
-    }
-
-    img {
-      max-width: 100%;
-      height: auto;
-      margin-top: 20px;
-    }
-
-    .topic {
-      margin-bottom: 30px;
-    }
-  </style>
 </head>
 <body>
   <h1>Web Application Security</h1>
