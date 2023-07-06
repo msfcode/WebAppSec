@@ -50,6 +50,16 @@
     <img src="https://github.com/msfcode/WebAppSec/assets/74313566/d51922c2-5176-4b85-a673-ab2c70f92094"><br>
     <p>We get that <br>
       <img src="https://github.com/msfcode/WebAppSec/assets/74313566/6a4f2d14-648f-4ed1-bc0c-c2b46d8f8e91">
+      <p>
+      <img src="https://github.com/msfcode/WebAppSec/assets/74313566/48d2d953-cbed-4e2d-ad93-1ea36de2f681">
     <p>But we can try to execute some JavaScript code using the &lt;iframe&gt; tag:</p>
     <iframe src="javascript:alert('DOMED')"></iframe>
+    <p>
+      <img src="https://github.com/msfcode/WebAppSec/assets/74313566/82434f00-8cb3-472c-b0e2-f16662d2dcfe">
+    </p>
     <p>You can, of course, search for another payload to test DOM-Based vulnerability on the
+<p>
+  Hacker can take the link to send to other victims when their js code will run or the rick rolled video 
+<br>
+      <img src="https://github.com/msfcode/WebAppSec/assets/74313566/0df029c4-9dab-4168-8dab-b21809aad5bc)">
+</p>
