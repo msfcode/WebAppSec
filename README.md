@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Web Application Security</h1>
+  <header>
+    <h1>Web Application Security</h1>
+  </header>
 
-  <div class="topic">
+  <section>
     <h2>Installation and Setup</h2>
     <p>To practice and apply my knowledge, I will be installing Owasp Juice Shop, a vulnerable full JavaScript web application designed by Owasp.</p>
     <ol>
@@ -16,9 +17,9 @@
       <li>Start the application: <code>npm start</code></li>
     </ol>
     <img src="https://th.bing.com/th/id/R.12ee318566a8850abfea46d0129f6fe3?rik=TOem1fxrHz3OWg&pid=ImgRaw&r=0" alt="Owasp Juice Shop Screenshot">
-  </div>
+  </section>
 
-  <div class="topic">
+  <section>
     <h2>Web Application Security Topics</h2>
     <p>During my learning journey, I will be covering various topics related to web application security. Some of the key areas include:</p>
     <ol>
@@ -34,7 +35,10 @@
       <li>Insecure Direct Object References (IDOR)</li>
       <li>API Attacks</li>
     </ol>
-    <p>I am excited to delve into these topics and gain practical experience in web application security.</p>
-  </div>
+  </section>
+
+  <footer>
+    <!-- Footer content goes here -->
+  </footer>
 </body>
 </html>
