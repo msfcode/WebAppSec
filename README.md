@@ -42,7 +42,7 @@
     <h2 style="font-size: 20px;">DOM-Based XSS Vulnerability</h2>
     <p>Unlike reflected XSS and stored XSS, the DOM-Based XSS vulnerability occurs on the client side. This means that an attacker can send a URL that contains some malicious JavaScript code. This code will be executed on the client's browser.</p>
     <p>On the Juice Shop app, let's try searching for something, like "Apple" for example.</p>
-    <img src="https://github.com/msfcode/WebAppSec/assets/74313566/b501b49d-00bc-4723-92a6-444fd0bd48e1)">
+    <img src="https://github.com/msfcode/WebAppSec/assets/74313566/b501b49d-00bc-4723-92a6-444fd0bd48e1">
     <p>Try to inspect the elements of the website:</p>
     <p>As we can see here, whatever we enter in the search input appears in the code:</p>
     <img src="https://github.com/msfcode/WebAppSec/assets/74313566/8537ceda-fe9b-4252-a739-46865681d106">
